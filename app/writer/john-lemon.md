@@ -5,3 +5,4 @@
 Recipe Picks:
 
 - January: [Homemade Sausages](../recipe/jan/homemade-sausages.md)
+- Mars: (../recipe/mars/john-lemon-mars.md)
