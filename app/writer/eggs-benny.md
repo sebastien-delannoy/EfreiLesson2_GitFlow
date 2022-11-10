@@ -6,3 +6,4 @@ Recipe Picks:
 
 - January: [Vanilla Panna Cotta](../recipe/jan/vanilla-panna-cotta.md)
 - February: [Aspargus Feb](../recipe/feb/asparagus-with-cranberries-and-pine-nuts.md)
+- Mars: [Asparagus with Cranberries and Pine Nuts](../recipe/mars/asparagus-with-cranberries-and-pine-nuts.md)
