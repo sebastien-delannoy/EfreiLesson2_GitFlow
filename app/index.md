@@ -8,6 +8,8 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Grilled Peach Salad](recipe/jan/grilled-peach-salad.md)
 
+[Cuba Pudding Jr](recipe/apr/cuba-pudding-jr.md)
+
 ### [Eggs Benny](writer/eggs-benny.md) | englishmuffin@flavor.magazine
 
 [Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
@@ -16,6 +18,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Homemade Sausages](recipe/jan/homemade-sausages.md)
 [Gateau Yaourt](recipe/fev/gateau-yaourt.md) | zestmaster@flavor.magazine
+mars: (recipe/mars/john-lemon-mars.md)
 
 ### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
 
