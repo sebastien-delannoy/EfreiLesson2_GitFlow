@@ -13,6 +13,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Eggs Benny](writer/eggs-benny.md) | englishmuffin@flavor.magazine
 
 [Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
+Mars: [Asparagus with Cranberries and Pine Nuts](recipe/mars/asparagus-with-cranberries-and-pine-nuts.md)
 
 ### [John Lemon](writer/john-lemon.md) | zestmaster@flavor.magazine
 
